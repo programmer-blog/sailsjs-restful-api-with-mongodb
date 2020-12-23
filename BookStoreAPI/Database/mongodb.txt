@@ -1,0 +1,14 @@
+> use db books
+> show tables;
+> db.book.find().pretty();
+{
+        "_id" : ObjectId("5fde42b64dc3cd6d4c8f507a"),
+        "name" : "Learning Sails Js API development",
+        "price" : "$15",
+        "category" : "Web Development",
+        "author" : "Programmer Blog",
+        "description" : "The book on sails JS API development",
+        "createdAt" : 1608401590811,
+        "updatedAt" : 1608401590811
+}
+>
