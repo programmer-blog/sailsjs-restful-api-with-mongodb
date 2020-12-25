@@ -19,6 +19,7 @@ Following steps are performed in this tutorial
   Create Sails js and MongoDB RESTful API
 
 
-Detailed tutorial link
+Detailed tutorial at http://programmerblog.net/restful-api-with-sails-js/
+
 
 
